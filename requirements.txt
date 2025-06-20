@@ -1,0 +1,5 @@
+customtkinter
+fpdf
+openai
+python-dotenv
+matplotlib
