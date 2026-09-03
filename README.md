@@ -95,7 +95,7 @@ GUI will open. Select your Dockerfile or YAML file and click **Analyze**.
 
 ## 👨‍💻 Developer
 
-Mert Ural – `merturl67@gmail.com`  
+Mert  
 Made with 💙 for OOP Python final project (2025)
 
 ---
