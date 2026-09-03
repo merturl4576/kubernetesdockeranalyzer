@@ -46,7 +46,7 @@ class ModernGUI:
         # Footer: lisans + iletişim
         footer = ctk.CTkLabel(
             self.app,
-            text="© 2025 Mert Ural – Developed with 💙 | Contact: merturl67@gmail.com",
+            text="© 2025 Mert – Developed with 💙",
             text_color="#1E90FF",  # Dodger Blue
             font=ctk.CTkFont(size=12)
         )
